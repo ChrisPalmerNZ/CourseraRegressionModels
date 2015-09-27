@@ -255,7 +255,7 @@ kable(auto, caption = "Automatic Transmission")
 Model Name  | Variables               | Description
 ----------- | ------------            | --------- 
 model       | lm(mpg ~ ., data=testCars) | Test all variables
-stepmodel   | cyl + hp + wt + qsec + am  | Variables of the step model
+stepmodel   | cyl + hp + wt + am         | Variables of the step model
 altmodel    | cyl + hp + wt + qsec + am  | Variables of the alternative model 
 medmodel    | wt + qsec + am             | Variables of the medium model 
 
