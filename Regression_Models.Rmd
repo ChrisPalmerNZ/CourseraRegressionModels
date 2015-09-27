@@ -298,6 +298,6 @@ The regression table in appendix 3 was created using the stargazer library: http
 
 This document was created using R markdown and knitr to create an HTML file, which 
 was then converted to PDF. For reasons of space most of the R code is not reproduced 
-here, but the original R markdown file with the embedded R code is available at 
-https://github.com/Zohaggie/RegressionModels/blob/master/RegressionModels.Rmd
+here, but the original R markdown file with the embedded R code is available:
 
+https://github.com/Zohaggie/CourseraRegressionModels/blob/master/Regression_Models.Rmd
